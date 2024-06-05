@@ -1,0 +1,19 @@
+// Global using directives
+global using System.Text;
+global using Microsoft.AspNetCore.Authentication.JwtBearer;
+global using Microsoft.AspNetCore.Identity;
+global using Microsoft.AspNetCore.Identity.UI.Services;
+global using Microsoft.EntityFrameworkCore;
+global using Microsoft.IdentityModel.Tokens;
+global using Microsoft.OpenApi.Models;
+global using SendGrid.Extensions.DependencyInjection;
+global using Sukuposti.API.Configurations;
+global using Sukuposti.Application.Exceptions.Filter;
+global using Sukuposti.Application.Options;
+global using Sukuposti.Application.Services;
+global using Sukuposti.Application.Services.Interfaces;
+global using Sukuposti.Domain.Entities;
+global using Sukuposti.Infrastructure.Context;
+global using Sukuposti.Infrastructure.Repository;
+global using Sukuposti.Infrastructure.Repository.Interfaces;
+global using System.Reflection;

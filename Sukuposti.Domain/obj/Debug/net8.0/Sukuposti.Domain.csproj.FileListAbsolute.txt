@@ -1,0 +1,13 @@
+/Users/admin/RiderProjects/Sukuposti.API/Sukuposti.Domain/bin/Debug/net8.0/Sukuposti.Domain.deps.json
+/Users/admin/RiderProjects/Sukuposti.API/Sukuposti.Domain/bin/Debug/net8.0/Sukuposti.Domain.dll
+/Users/admin/RiderProjects/Sukuposti.API/Sukuposti.Domain/bin/Debug/net8.0/Sukuposti.Domain.pdb
+/Users/admin/RiderProjects/Sukuposti.API/Sukuposti.Domain/obj/Debug/net8.0/Sukuposti.Domain.csproj.AssemblyReference.cache
+/Users/admin/RiderProjects/Sukuposti.API/Sukuposti.Domain/obj/Debug/net8.0/Sukuposti.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/RiderProjects/Sukuposti.API/Sukuposti.Domain/obj/Debug/net8.0/Sukuposti.Domain.AssemblyInfoInputs.cache
+/Users/admin/RiderProjects/Sukuposti.API/Sukuposti.Domain/obj/Debug/net8.0/Sukuposti.Domain.AssemblyInfo.cs
+/Users/admin/RiderProjects/Sukuposti.API/Sukuposti.Domain/obj/Debug/net8.0/Sukuposti.Domain.csproj.CoreCompileInputs.cache
+/Users/admin/RiderProjects/Sukuposti.API/Sukuposti.Domain/obj/Debug/net8.0/Sukuposti.Domain.sourcelink.json
+/Users/admin/RiderProjects/Sukuposti.API/Sukuposti.Domain/obj/Debug/net8.0/Sukuposti.Domain.dll
+/Users/admin/RiderProjects/Sukuposti.API/Sukuposti.Domain/obj/Debug/net8.0/refint/Sukuposti.Domain.dll
+/Users/admin/RiderProjects/Sukuposti.API/Sukuposti.Domain/obj/Debug/net8.0/Sukuposti.Domain.pdb
+/Users/admin/RiderProjects/Sukuposti.API/Sukuposti.Domain/obj/Debug/net8.0/ref/Sukuposti.Domain.dll

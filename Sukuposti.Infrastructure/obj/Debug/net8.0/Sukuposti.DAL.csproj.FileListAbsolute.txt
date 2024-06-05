@@ -1,0 +1,14 @@
+/Users/admin/RiderProjects/Sukuposti.API/Sukuposti.DAL/bin/Debug/net8.0/Sukuposti.DAL.deps.json
+/Users/admin/RiderProjects/Sukuposti.API/Sukuposti.DAL/bin/Debug/net8.0/Sukuposti.DAL.runtimeconfig.json
+/Users/admin/RiderProjects/Sukuposti.API/Sukuposti.DAL/bin/Debug/net8.0/Sukuposti.DAL.dll
+/Users/admin/RiderProjects/Sukuposti.API/Sukuposti.DAL/bin/Debug/net8.0/Sukuposti.DAL.pdb
+/Users/admin/RiderProjects/Sukuposti.API/Sukuposti.DAL/obj/Debug/net8.0/Sukuposti.DAL.csproj.AssemblyReference.cache
+/Users/admin/RiderProjects/Sukuposti.API/Sukuposti.DAL/obj/Debug/net8.0/Sukuposti.DAL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/RiderProjects/Sukuposti.API/Sukuposti.DAL/obj/Debug/net8.0/Sukuposti.DAL.AssemblyInfoInputs.cache
+/Users/admin/RiderProjects/Sukuposti.API/Sukuposti.DAL/obj/Debug/net8.0/Sukuposti.DAL.AssemblyInfo.cs
+/Users/admin/RiderProjects/Sukuposti.API/Sukuposti.DAL/obj/Debug/net8.0/Sukuposti.DAL.csproj.CoreCompileInputs.cache
+/Users/admin/RiderProjects/Sukuposti.API/Sukuposti.DAL/obj/Debug/net8.0/Sukuposti.DAL.dll
+/Users/admin/RiderProjects/Sukuposti.API/Sukuposti.DAL/obj/Debug/net8.0/refint/Sukuposti.DAL.dll
+/Users/admin/RiderProjects/Sukuposti.API/Sukuposti.DAL/obj/Debug/net8.0/Sukuposti.DAL.pdb
+/Users/admin/RiderProjects/Sukuposti.API/Sukuposti.DAL/obj/Debug/net8.0/Sukuposti.DAL.genruntimeconfig.cache
+/Users/admin/RiderProjects/Sukuposti.API/Sukuposti.DAL/obj/Debug/net8.0/ref/Sukuposti.DAL.dll

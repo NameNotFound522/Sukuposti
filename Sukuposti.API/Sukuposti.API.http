@@ -1,0 +1,6 @@
+@Sukuposti.API_HostAddress = http://localhost:5131
+
+GET {{Sukuposti.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
