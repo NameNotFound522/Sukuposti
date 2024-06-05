@@ -10,16 +10,15 @@
   <component name="ChangeListManager">
     <list default="true" id="18b5bb22-96fd-4400-9ce9-9f2fc10d143f" name="Changes" comment="">
       <changelist_data name="FunnyCoder345" email="161939596+funnycoder345@users.noreply.github.com" date="1717580596000" />
-      <change beforePath="$PROJECT_DIR$/Sukuposti.Infrastructure/Context/ApiContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Sukuposti.Infrastructure/Context/ApiContext.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sukuposti.Infrastructure/Extensions/HorseFilterExtensions.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Sukuposti.Infrastructure/Extensions/HorseFilterExtensions.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sukuposti.Infrastructure/Models/AspNetRole.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sukuposti.Infrastructure/Models/AspNetRoleClaim.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sukuposti.Infrastructure/Models/AspNetUser.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sukuposti.Infrastructure/Models/AspNetUserClaim.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sukuposti.Infrastructure/Models/AspNetUserLogin.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sukuposti.Infrastructure/Models/AspNetUserToken.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sukuposti.Infrastructure/Models/Audit.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Sukuposti.Infrastructure/Models/Audit.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sukuposti.Infrastructure/Repository/Implementations/HorseRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Sukuposti.Infrastructure/Repository/Implementations/HorseRepository.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Sukuposti.API/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Sukuposti.API/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sukuposti.API/obj/Debug/net8.0/Sukuposti.API.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Sukuposti.API/obj/Debug/net8.0/Sukuposti.API.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sukuposti.API/obj/Debug/net8.0/Sukuposti.API.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Sukuposti.API/obj/Debug/net8.0/Sukuposti.API.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sukuposti.Application/obj/Debug/net8.0/Sukuposti.Application.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Sukuposti.Application/obj/Debug/net8.0/Sukuposti.Application.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sukuposti.Application/obj/Debug/net8.0/Sukuposti.Application.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Sukuposti.Application/obj/Debug/net8.0/Sukuposti.Application.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sukuposti.Domain/obj/Debug/net8.0/Sukuposti.Domain.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Sukuposti.Domain/obj/Debug/net8.0/Sukuposti.Domain.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sukuposti.Domain/obj/Debug/net8.0/Sukuposti.Domain.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Sukuposti.Domain/obj/Debug/net8.0/Sukuposti.Domain.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sukuposti.Infrastructure/obj/Debug/net8.0/Sukuposti.Infrastructure.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Sukuposti.Infrastructure/obj/Debug/net8.0/Sukuposti.Infrastructure.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sukuposti.Infrastructure/obj/Debug/net8.0/Sukuposti.Infrastructure.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Sukuposti.Infrastructure/obj/Debug/net8.0/Sukuposti.Infrastructure.AssemblyInfoInputs.cache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,10 +48,13 @@
     &quot;assignee&quot;: &quot;Stotskyi&quot;
   }
 }</component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="e7700533-d717-4a18-b793-914059c16c65" />
+  </component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Stotskyi/Sukuposti.git&quot;,
-    &quot;accountId&quot;: &quot;698e538d-709e-48b0-ae6b-b58b221a8668&quot;
+    &quot;url&quot;: &quot;https://github.com/NameNotFound522/Sukuposti.git&quot;,
+    &quot;accountId&quot;: &quot;e7700533-d717-4a18-b793-914059c16c65&quot;
   }
 }</component>
   <component name="HighlightingSettingsPerFile">
@@ -87,32 +89,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    ".NET Launch Settings Profile.Sukuposti.API: http.executor": "Debug",
-    ".NET Launch Settings Profile.Sukuposti.API: https.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "XThreadsFramesViewSplitterKey": "0.36744186",
-    "git-widget-placeholder": "dapper",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;.NET Launch Settings Profile.Sukuposti.API: http.executor&quot;: &quot;Run&quot;,
+    &quot;.NET Launch Settings Profile.Sukuposti.API: https.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;XThreadsFramesViewSplitterKey&quot;: &quot;0.36744186&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "mysql"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
     ],
-    "rider.external.source.directories": [
-      "/Users/admin/Library/Application Support/JetBrains/Rider2024.1/resharper-host/DecompilerCache",
-      "/Users/admin/Library/Application Support/JetBrains/Rider2024.1/resharper-host/SourcesCache",
-      "/Users/admin/Library/Application Support/Symbols/src"
+    &quot;rider.external.source.directories&quot;: [
+      &quot;/Users/admin/Library/Application Support/JetBrains/Rider2024.1/resharper-host/DecompilerCache&quot;,
+      &quot;/Users/admin/Library/Application Support/JetBrains/Rider2024.1/resharper-host/SourcesCache&quot;,
+      &quot;/Users/admin/Library/Application Support/Symbols/src&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected=".NET Launch Settings Profile.Sukuposti.API: http">
     <configuration name="Sukuposti.API: http" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/Sukuposti.API/Sukuposti.API.csproj" />
@@ -181,7 +183,8 @@
       <workItem from="1717403867707" duration="46180000" />
       <workItem from="1717526622039" duration="2198000" />
       <workItem from="1717571876065" duration="15136000" />
-      <workItem from="1717594998586" duration="2576000" />
+      <workItem from="1717594998586" duration="10491000" />
+      <workItem from="1717607000413" duration="1509000" />
     </task>
     <servers />
   </component>

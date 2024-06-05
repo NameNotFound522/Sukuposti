@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sukuposti.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7fae5a11912fd40dd8f149c7b1cf183a9adb13c1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c9fd0352f8859316b9edf8381903f497a04b970")]
 [assembly: System.Reflection.AssemblyProductAttribute("Sukuposti.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sukuposti.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
