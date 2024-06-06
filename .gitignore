@@ -402,4 +402,4 @@ FodyWeavers.xsd
 
 obj/
 /obj/
-*obj/
+*.obj/
