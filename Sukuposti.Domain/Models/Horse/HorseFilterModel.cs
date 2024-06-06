@@ -11,7 +11,6 @@ public class HorseFilterModel
     //maternial line
     public uint? EmalinjaId { get; set; }
     
-    
     //Breed ancestors  RotuKtk
     public uint? Kantakarja { get; set; }
     
@@ -26,7 +25,6 @@ public class HorseFilterModel
     
     //Country of birth 
     public uint? Syntymamaa { get; set; }
-    
     
     //Date of birth / syntaika
     public DateOnly? Syntymaaika { get; set; }
@@ -48,14 +46,8 @@ public class HorseFilterModel
     //palkinto
     public string? Kantakirjausluokka { get; set; }
     
-    
     //naytelytylous
     public string? Jälkeläiset { get; set; }
     
     public bool? WithImages { get; set; }
-
-
-
-
-
 }

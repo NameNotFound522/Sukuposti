@@ -3,7 +3,7 @@ using Sukuposti.API;
 
 var builder = WebApplication.CreateBuilder(args);
 
-var connectionString = builder.Configuration.GetConnectionString("Default");
+var connectionString = builder.Configuration.GetConnectionString("Prod");
 builder.Services.AddDbContext<ApiContext>(options =>
         options.UseMySql(connectionString,
             ServerVersion.Parse("8.3.0-mysql")).EnableSensitiveDataLogging()

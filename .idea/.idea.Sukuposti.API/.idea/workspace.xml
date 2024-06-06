@@ -10,15 +10,16 @@
   <component name="ChangeListManager">
     <list default="true" id="18b5bb22-96fd-4400-9ce9-9f2fc10d143f" name="Changes" comment="">
       <changelist_data name="FunnyCoder345" email="161939596+funnycoder345@users.noreply.github.com" date="1717580596000" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Sukuposti.API/.idea/projectSettingsUpdater.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Sukuposti.API/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Sukuposti.API/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sukuposti.API/obj/Debug/net8.0/Sukuposti.API.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Sukuposti.API/obj/Debug/net8.0/Sukuposti.API.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sukuposti.API/obj/Debug/net8.0/Sukuposti.API.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Sukuposti.API/obj/Debug/net8.0/Sukuposti.API.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sukuposti.Application/obj/Debug/net8.0/Sukuposti.Application.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Sukuposti.Application/obj/Debug/net8.0/Sukuposti.Application.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sukuposti.Application/obj/Debug/net8.0/Sukuposti.Application.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Sukuposti.Application/obj/Debug/net8.0/Sukuposti.Application.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sukuposti.Domain/obj/Debug/net8.0/Sukuposti.Domain.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Sukuposti.Domain/obj/Debug/net8.0/Sukuposti.Domain.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sukuposti.Domain/obj/Debug/net8.0/Sukuposti.Domain.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Sukuposti.Domain/obj/Debug/net8.0/Sukuposti.Domain.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sukuposti.Infrastructure/obj/Debug/net8.0/Sukuposti.Infrastructure.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Sukuposti.Infrastructure/obj/Debug/net8.0/Sukuposti.Infrastructure.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sukuposti.Infrastructure/obj/Debug/net8.0/Sukuposti.Infrastructure.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Sukuposti.Infrastructure/obj/Debug/net8.0/Sukuposti.Infrastructure.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sukuposti.API/Controllers/HorseController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Sukuposti.API/Controllers/HorseController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sukuposti.API/Initializer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Sukuposti.API/Initializer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sukuposti.API/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Sukuposti.API/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sukuposti.API/appsettings.Development.json" beforeDir="false" afterPath="$PROJECT_DIR$/Sukuposti.API/appsettings.Development.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sukuposti.Application/Services/Implementations/HorseService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Sukuposti.Application/Services/Implementations/HorseService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sukuposti.Domain/Models/Horse/HorseFilterModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Sukuposti.Domain/Models/Horse/HorseFilterModel.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sukuposti.Infrastructure/Extensions/HorseFilterExtensions.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Sukuposti.Infrastructure/Extensions/HorseFilterExtensions.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sukuposti.Infrastructure/Repository/Implementations/HorseRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Sukuposti.Infrastructure/Repository/Implementations/HorseRepository.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,9 +49,6 @@
     &quot;assignee&quot;: &quot;Stotskyi&quot;
   }
 }</component>
-  <component name="GithubDefaultAccount">
-    <option name="defaultAccountId" value="e7700533-d717-4a18-b793-914059c16c65" />
-  </component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/NameNotFound522/Sukuposti.git&quot;,
@@ -58,20 +56,16 @@
   }
 }</component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/89781e8d39bf4a4cba3f85862fef778d32400/67/4e32d328/DataType.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/c15184cdf8254e74a8a6ee96bd1b8738d82000/2b/22dcec79/DateOnly.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/c15184cdf8254e74a8a6ee96bd1b8738d82000/b1/ef7fde2b/DateTime.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9426e27d4a2143d3b5a77e5d775edfd1ca568/fa/5b7947db/&lt;&gt;z__ReadOnlyArray`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/b7ff85c895f14715934f3aaefb64b69d1e6428/75/08172bbf/RelationalTypeMappingSource.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/c15184cdf8254e74a8a6ee96bd1b8738d82000/b9/d1977aed/Task`1.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/d02ebc58d66a491789dff89fc75038ec219600/fb/fd47d6ee/ActionMethodExecutor.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ee2a9c45c1d04251a24aa0dba8084c7155200/84/09245a90/UseMiddlewareExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/cdfdf789176240d1830d4a03357141dc26a828/15/061031e2/EntityTypeBuilder`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/e48d22d5dbe84fb88e3a03496b106db49600/e8/bfbd1ea2/PredicateBuilder.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/fcbf4f8a5ab54375abcfa46e8f5896b536c00/e8/f34fa4dc/ServiceProvider.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/c7e3b23e71e2a5f9d6c0d7b72b62b3bcbddc63f73c192f753fba2bdf27264/ISendGridClient.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Users/admin/RiderProjects/Sukuposti.API/Sukuposti.Infrastructure/Repository/Implementations/HorseRepository.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Users/admin/RiderProjects/Sukuposti.API/Sukuposti.Infrastructure/Repository/Implementations/HorseRepository.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Users/admin/RiderProjects/Sukuposti.API/Sukuposti.Infrastructure/Repository/Implementations/HorseRepository.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Users/admin/RiderProjects/Sukuposti.API/Sukuposti.Infrastructure/Repository/Implementations/HorseRepository.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Users/admin/RiderProjects/Sukuposti.API/Sukuposti.Infrastructure/Repository/Implementations/HorseRepository.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Users/admin/RiderProjects/Sukuposti.API/Sukuposti.Infrastructure/Repository/Implementations/HorseRepository.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/357b04bb21cfefd40d8bcb16cce0bb2492aed1a2394295a550514389f89688/MySqlConnection.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/3e2fdc3e37fd991c23cca9476ad429ff20cbaed1c29ea45744fe76f73d413a76/MySqlCommand.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/7818315f74e2af6f81ab587f16d7d5dfc8a6653fe9093d3c11209990ee3b78/MySqlParameter.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/a424e6912048b4cd25715f158e789aae24db5c2911d9e622d39bc6ac3246c6/MySqlConnectionStringBuilder.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="KubernetesApiPersistence">{}</component>
   <component name="KubernetesApiProvider">{
@@ -86,35 +80,36 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;.NET Launch Settings Profile.Sukuposti.API: http.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Launch Settings Profile.Sukuposti.API: https.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;XThreadsFramesViewSplitterKey&quot;: &quot;0.36744186&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    ".NET Launch Settings Profile.Sukuposti.API: http.executor": "Run",
+    ".NET Launch Settings Profile.Sukuposti.API: https.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "XThreadsFramesViewSplitterKey": "0.36744186",
+    "git-widget-placeholder": "search",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;mysql&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
     ],
-    &quot;rider.external.source.directories&quot;: [
-      &quot;/Users/admin/Library/Application Support/JetBrains/Rider2024.1/resharper-host/DecompilerCache&quot;,
-      &quot;/Users/admin/Library/Application Support/JetBrains/Rider2024.1/resharper-host/SourcesCache&quot;,
-      &quot;/Users/admin/Library/Application Support/Symbols/src&quot;
+    "rider.external.source.directories": [
+      "/Users/admin/Library/Application Support/JetBrains/Rider2024.1/resharper-host/DecompilerCache",
+      "/Users/admin/Library/Application Support/JetBrains/Rider2024.1/resharper-host/SourcesCache",
+      "/Users/admin/Library/Application Support/Symbols/src"
     ]
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected=".NET Launch Settings Profile.Sukuposti.API: http">
     <configuration name="Sukuposti.API: http" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/Sukuposti.API/Sukuposti.API.csproj" />
@@ -207,23 +202,23 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/Sukuposti.Infrastructure/Repository/Implementations/HorseRepository.cs</url>
-          <line>30</line>
-          <properties documentPath="$PROJECT_DIR$/Sukuposti.Infrastructure/Repository/Implementations/HorseRepository.cs" containingFunctionPresentation="Method 'OrFilter'">
+          <url>file://$PROJECT_DIR$/Sukuposti.Infrastructure/Extensions/HorseFilterExtensions.cs</url>
+          <line>32</line>
+          <properties documentPath="$PROJECT_DIR$/Sukuposti.Infrastructure/Extensions/HorseFilterExtensions.cs" containingFunctionPresentation="Method 'GetValidPredicates'">
             <startOffsets>
-              <option value="1099" />
+              <option value="1218" />
             </startOffsets>
             <endOffsets>
-              <option value="1151" />
+              <option value="1262" />
             </endOffsets>
           </properties>
-          <option name="timeStamp" value="2" />
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

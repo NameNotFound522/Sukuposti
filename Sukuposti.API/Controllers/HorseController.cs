@@ -5,6 +5,7 @@ using Sukuposti.Domain.Models.Pagination;
 using Sukuposti.Infrastructure;
 using Sukuposti.Infrastructure.Models;
 using Dapper;
+using Sukuposti.Infrastructure.Extensions;
 
 namespace Sukuposti.API.Controllers;
 
@@ -34,11 +35,11 @@ public class HorseController(IHorseRepository horseRepository, IHorseService hor
         return Ok(response);
     }
 
-    [HttpPost]
+    [HttpGet("search")]
     public async Task<IActionResult> SearchByFilter([FromQuery] HorseFilterModel filter)
     {
-        var response = await horseRepository.OrFilter(filter);
-        return Ok(await response.ToListAsync());
+        var response = await filter.GetValidPredicates(horseRepository);
+        return Ok(response);
     }
 
     [HttpGet("dapper")]

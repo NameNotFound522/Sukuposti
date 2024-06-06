@@ -15,22 +15,23 @@ public class HorseRepository(ApiContext dbContext,MySqlConnection connection) : 
 {
     public async Task<IQueryable<Hevonen>> OrFilter(HorseFilterModel filters)
     {
-        var horses = dbContext.Hevonens.Include(h => h.HevonenNimis).AsQueryable();
-        var predicates = filters.GetValidPredicates().ToList();
-        
-        if (predicates.Any())
-        {
-            var predicate = PredicateBuilder.New<Hevonen>(false); // False for OR
+        // var horses = dbContext.Hevonens.Include(h => h.HevonenNimis).AsQueryable();
+        // var predicates = filters.GetValidPredicates().ToList();
+        //
+        // if (predicates.Any())
+        // {
+        //     var predicate = PredicateBuilder.New<Hevonen>(false); // False for OR
+        //
+        //     predicate = predicates.Aggregate(predicate, (current, p) => current.And(p));
+        //     horses = horses.Where(predicate);
+        //     
+        // }
+        //
+        // string sql = horses.ToQueryString();
+        // var hor = await connection.QueryAsync<Hevonen>(sql);
+        // return await Task.FromResult(horses);
 
-            predicate = predicates.Aggregate(predicate, (current, p) => current.And(p));
-            horses = horses.Where(predicate);
-            
-        }
-
-        string sql = horses.ToQueryString();
-        var hor = await connection.QueryAsync<Hevonen>(sql);
-        return await Task.FromResult(horses);
-
+        throw new NotImplementedException();
     }
     
 }

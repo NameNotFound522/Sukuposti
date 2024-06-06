@@ -1,11 +1,12 @@
 using Microsoft.EntityFrameworkCore;
 using Sukuposti.Application.Services.BaseService;
+using Sukuposti.Application.Services.Interfaces;
 using Sukuposti.Domain.DTO.EventSearch;
 using Sukuposti.Domain.Models.Pagination;
 using Sukuposti.Infrastructure.Models;
 using Sukuposti.Infrastructure.Repository.Interfaces;
 
-namespace Sukuposti.Application.Services.Interfaces;
+namespace Sukuposti.Application.Services.Implementations;
 
 public class HorseService : BaseService<Hevonen>, IHorseService
 {
